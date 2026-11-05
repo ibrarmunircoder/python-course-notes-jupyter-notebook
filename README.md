@@ -1,2 +1,116 @@
-I have completed the Python course with following content. Please create README file using the content below that i can in my Github Python notes repo
-&#x20;                          [⭐ = project] #1   ([00:00:00](https://www.youtube.com/watch?v=ix9cRaBkVe0)) python tutorial for beginners 🐍 #2   ([00:05:49](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=349s)) variables ❎ #3   ([00:16:05](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=965s)) type casting 💱 #4   ([00:21:15](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=1275s)) user input ⌨️ #5   ([00:32:42](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=1962s\&pp=0gcJCWMAwfN6Pr3D)) ⭐ madlibs game 📖 #6   ([00:37:55](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=2275s)) arithmetic & math 📐 #7   ([00:51:46](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=3106s)) if statements 🤔 #8   ([01:00:06](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=3606s)) ⭐ calculator program 🧮 #9   ([01:05:59](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=3959s)) ⭐ weight conversion program 🏋️ #10 ([01:09:59](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=4199s\&pp=0gcJCWMAwfN6Pr3D)) ⭐ temperature conversion program 🌡️ #11 ([01:13:58](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=4438s)) logical operators 🌦️ #12 ([01:21:28](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=4888s)) conditional expressions ❓ #13 ([01:27:03](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=5223s)) string methods 〰️ #14 ([01:39:08](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=5948s\&pp=0gcJCWMAwfN6Pr3D)) string indexing ✂️ #15 ([01:46:35](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=6395s)) format specifiers 💬 #16 ([01:51:55](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=6715s)) while loops ♾️ #17 ([01:58:53](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=7133s)) ⭐ compound interest calculator 💵 #18 ([02:06:28](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=7588s)) for loops 🔁 #19 ([02:11:33](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=7893s)) ⭐ countdown timer program ⌛ #20 ([02:17:28](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=8248s)) nested loops ➿ #21 ([02:23:03](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=8583s)) lists, sets, and tuples 🍎 #22 ([02:38:08](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=9488s)) ⭐ shopping cart program 🛒 #23 ([02:45:21](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=9921s)) 2D collections ⬜ #24 ([02:53:59](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=10439s)) ⭐ quiz game 💯 #25 ([03:03:27](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=11007s)) dictionaries 📙 #26 ([03:11:33](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=11493s)) ⭐ concession stand program 🍿 #27 ([03:19:42](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=11982s)) random numbers 🎲 #28 ([03:24:16](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=12256s)) ⭐ number guessing game 🔢 #29 ([03:32:37](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=12757s)) ⭐ rock, paper, scissors game 🗿 #30 ([03:42:06](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=13326s\&pp=0gcJCWMAwfN6Pr3D)) ⭐ dice roller program ⚂ #31 ([03:52:12](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=13932s\&pp=0gcJCWMAwfN6Pr3D)) functions 📞 #32 ([04:02:50](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=14570s)) default arguments 👍 #33 ([04:08:56](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=14936s)) keyword arguments 🗝️ #34 ([04:15:40](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=15340s)) \*args & \*\*kwargs 📦 #35 ([04:30:33](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=16233s)) iterables 🔂 #36 ([04:37:04](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=16624s)) membership operators 🔎 #37 ([04:45:56](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=17156s\&pp=0gcJCWMAwfN6Pr3D)) list comprehensions 📃 #38 ([04:56:17](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=17777s)) match-case statements 📆 #39 ([05:02:13](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=18133s)) modules 📨 #40 ([05:08:51](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=18531s)) scope resolution 🔬 #41 ([05:14:22](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=18862s\&pp=0gcJCWMAwfN6Pr3D)) if name == 'main': 📥 #42 ([05:23:34](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=19414s)) ⭐ banking program 💰 #43 ([05:38:34](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=20314s)) ⭐ slot machine 🎰 #44 ([05:58:45](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=21525s)) ⭐ encryption program 🔐 #45 ([06:07:26](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=22046s)) ⭐ hangman game 🕺 #46 ([06:32:32](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=23552s)) python object oriented programming 🚗 #47 ([06:44:50](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=24290s)) class variables 🎓 #48 ([06:53:06](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=24786s)) inheritance 👨‍👦‍👦 #49 ([07:00:02](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=25202s)) multiple inheritance 🐟 #50 ([07:08:04](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=25684s\&pp=0gcJCWMAwfN6Pr3D)) super() 🔴 #51 ([07:21:10](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=26470s)) polymorphism 🎭 #52 ([07:29:15](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=26955s)) duck typing 🦆 #53 ([07:33:34](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=27214s)) static methods ⚡ #54 ([07:39:31](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=27571s)) class methods 🏫 #55 ([07:46:16](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=27976s)) magic methods 🌟 #56 ([07:59:51](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=28791s)) @property ⚙️ #57 ([08:07:33](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=29253s)) decorators 🎊 #58 ([08:14:57](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=29697s\&pp=0gcJCWMAwfN6Pr3D)) exception handling 🚦 #59 ([08:20:46](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=30046s)) file detection 🕵️‍♂️ #60 ([08:27:47](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=30467s)) writing files ✍ #61 ([08:41:33](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=31293s)) reading files 🔍 #62 ([08:48:29](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=31709s)) dates & times 📅 #63 ([08:54:46](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=32086s)) ⭐ alarm clock ⏰ #64 ([09:05:03](https://www.youtube.com/watch?v=ix9cRaBkVe0\&t=32703s)) multithreading 🧵
+# Python Programming Study Notes & Projects 🐍
+
+Welcome to my Python learning repository! This repository contains code snippets, concepts, exercises, and mini-projects completed while going through the comprehensive Python tutorial.
+
+---
+
+## 📚 Course Curriculum & Progress Index
+
+Below is the structured overview of all covered topics and practical projects, organized into different learning phases.
+
+### 🟢 Phase 1: Python Fundamentals & Control Flow
+
+| # | Topic / Project | Type |
+| :--- | :--- | :---: |
+| **01** | Python Tutorial for Beginners | Concept |
+| **02** | Variables ❎ | Concept |
+| **03** | Type Casting 💱 | Concept |
+| **04** | User Input ⌨️ | Concept |
+| **05** | **Madlibs Game** 📖 | ⭐ Project |
+| **06** | Arithmetic & Math 📐 | Concept |
+| **07** | If Statements 🤔 | Concept |
+| **08** | **Calculator Program** 🧮 | ⭐ Project |
+| **09** | **Weight Conversion Program** 🏋️ | ⭐ Project |
+| **10** | **Temperature Conversion Program** 🌡️ | ⭐ Project |
+| **11** | Logical Operators 🌦️ | Concept |
+| **12** | Conditional Expressions ❓ | Concept |
+| **13** | String Methods 〰️ | Concept |
+| **14** | String Indexing ✂️ | Concept |
+| **15** | Format Specifiers 💬 | Concept |
+| **16** | While Loops ♾️ | Concept |
+| **17** | **Compound Interest Calculator** 💵 | ⭐ Project |
+| **18** | For Loops 🔁 | Concept |
+| **19** | **Countdown Timer Program** ⌛ | ⭐ Project |
+| **20** | Nested Loops ➿ | Concept |
+
+---
+
+### 🟡 Phase 2: Data Structures & Algorithms
+
+| # | Topic / Project | Type |
+| :--- | :--- | :---: |
+| **21** | Lists, Sets, and Tuples 🍎 | Concept |
+| **22** | **Shopping Cart Program** 🛒 | ⭐ Project |
+| **23** | 2D Collections ⬜ | Concept |
+| **24** | **Quiz Game** 💯 | ⭐ Project |
+| **25** | Dictionaries 📙 | Concept |
+| **26** | **Concession Stand Program** 🍿 | ⭐ Project |
+| **27** | Random Numbers 🎲 | Concept |
+| **28** | **Number Guessing Game** 🔢 | ⭐ Project |
+| **29** | **Rock, Paper, Scissors Game** 🗿 | ⭐ Project |
+| **30** | **Dice Roller Program** ⚂ | ⭐ Project |
+
+---
+
+### 🔵 Phase 3: Modular Programming & Advanced Mechanics
+
+| # | Topic / Project | Type |
+| :--- | :--- | :---: |
+| **31** | Functions 📞 | Concept |
+| **32** | Default Arguments 👍 | Concept |
+| **33** | Keyword Arguments 🗝️ | Concept |
+| **34** | \*args & \*\*kwargs 📦 | Concept |
+| **35** | Iterables 🔂 | Concept |
+| **36** | Membership Operators 🔎 | Concept |
+| **37** | List Comprehensions 📃 | Concept |
+| **38** | Match-Case Statements 📆 | Concept |
+| **39** | Modules 📨 | Concept |
+| **40** | Scope Resolution 🔬 | Concept |
+| **41** | `if __name__ == '__main__':` 📥 | Concept |
+| **42** | **Banking Program** 💰 | ⭐ Project |
+| **43** | **Slot Machine** 🎰 | ⭐ Project |
+| **44** | **Encryption Program** 🔐 | ⭐ Project |
+| **45** | **Hangman Game** 🕺 | ⭐ Project |
+
+---
+
+### 🟣 Phase 4: Object-Oriented Programming (OOP) & Beyond
+
+| # | Topic / Project | Type |
+| :--- | :--- | :---: |
+| **46** | Object-Oriented Programming (OOP) 🚗 | Concept |
+| **47** | Class Variables 🎓 | Concept |
+| **48** | Inheritance 👨‍👦‍👦 | Concept |
+| **49** | Multiple Inheritance 🐟 | Concept |
+| **50** | `super()` 🔴 | Concept |
+| **51** | Polymorphism 🎭 | Concept |
+| **52** | Duck Typing 🦆 | Concept |
+| **53** | Static Methods ⚡ | Concept |
+| **54** | Class Methods 🏫 | Concept |
+| **55** | Magic (Dunder) Methods 🌟 | Concept |
+| **56** | `@property` Decorator ⚙️ | Concept |
+| **57** | Decorators 🎊 | Concept |
+| **58** | Exception Handling 🚦 | Concept |
+| **59** | File Detection 🕵️‍♂️ | Concept |
+| **60** | Writing Files ✍ | Concept |
+| **61** | Reading Files 🔍 | Concept |
+| **62** | Dates & Times 📅 | Concept |
+| **63** | **Alarm Clock** ⏰ | ⭐ Project |
+| **64** | Multithreading 🧵 | Concept |
+
+---
+
+## 🛠️ How to Run Code Snippets
+
+To run any of the Python files in this repository locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Run a specific script:**
+   ```bash
+   python script_name.py
+   ```
